@@ -6,4 +6,4 @@ it si all about recognising the face  in webcam and pronunce person's name
 
 ## Idea behind
 computer recognise persons by comparing encodings for the face in webcam with encodings already groupped in a list and getting person's name
-![](https://images.unsplash.com/photo-1564648351416-3eec9f3e85de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8a29zdGVubG9zZSUyMGJpbGRlcnxlbnwwfHwwfHw%3D&w=1000&q=80)
+![](file:///E:/D-Photo/1_sbk7QGgjtiAllPZ36Hu9ag.png)
